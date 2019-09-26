@@ -1,4 +1,4 @@
-# Terraform-DSP
+# Terraform-SDP
 
 Three environments: Staging, Dev and Production EC2 servers are created. <br>
 All the dependencies are automatically installed after the server creation from the TF file. <br>
